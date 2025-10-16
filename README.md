@@ -86,8 +86,7 @@ I focus on building insightful dashboards and discovering patterns that drive re
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/aya-gamal-senara)  
 - 🧠 [GitHub](https://github.com/ayasenara112)  
-- ✉️ [Email]ayagama662@gmail.com
-
+- ✉️ [Email](ayagama662@gmail.com)  
 ---
 
 ⭐ *“Transforming data into meaningful stories that drive action.”*  
